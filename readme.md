@@ -4,6 +4,12 @@ Version: 1.0.0.82.
 
 Windows x64, IDA Pro 8.4 (`ida64.exe`).
 
+## Download
+
+[Download the latest release](https://github.com/Mr-wolf-is-me/microblaze-ida/releases/latest)
+
+Download the `IDA_MicroBlaze-...zip` file under **Assets**.
+
 ## Quick start
 
 1. Extract the ZIP into a writable directory. Keep its files together.
